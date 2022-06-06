@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">RecipeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="email_goes_here">email goes here</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="logout">Logout</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="servings">servings</string>
+    <string name="easy">easy</string>
+    <string name="medium">medium</string>
+    <string name="hard">hard</string>
+    <string name="mins">mins</string>
+    <string name="nutrition">Nutrition:</string>
+    <string name="save">Save</string>
+    <string name="fat">fat</string>
+    <string name="proteins">proteins</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
 </resources>
